@@ -8,3 +8,7 @@ let c = true;
 console.log(typeof a);
 console.log(typeof b);
 console.log(typeof c);
+
+// l'addition dans différents cas
+// 12+12   =  24   // number + number = number
+"12" 
